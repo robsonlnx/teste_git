@@ -1,5 +1,9 @@
 ARQUIVO QUE SERÁ ALTERADO TANTO NO LOCAL QUANTO NO REMOTO
+<<<<<<< HEAD
 -Linha que inseri na versão remota
 
 
+=======
+- Linha que inseri na cópia local
+>>>>>>> 7534877 (Alterei cópia do arquivo comum.txt)
 
